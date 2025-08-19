@@ -1,0 +1,5 @@
+{
+  "name": "Full-Stack Secure Multi-User App",
+  "description": "An interactive guide to building a secure, multi-user application with Supabase Authentication, Row Level Security, and React.",
+  "requestFramePermissions": []
+}
